@@ -1,6 +1,6 @@
 # GLM_R
 
-**Problem**: To predict the 199 unknown species with the known 89 species using Logistic regression (GLM)
+**Problem**: To predict the 199 unknown species with the known 89 species using Logistic regression (GLM) in R-Studio.
 
 **Dataset**: Given dataset is the Microtus dataset which consists of 288 skulls from 2 species, multiplex and subterraneus with skull Length, skull width and skull height. Out of which 89 species are known and 199 species are unknown. 
 
